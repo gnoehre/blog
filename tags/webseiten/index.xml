@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dff solutions / Zukunftstage </title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/webseiten/</link>
+    <language>en-us</language>
+    <author></author>
+    <rights>(C) 2016</rights>
+    <updated>2016-04-28 13:12:27 &#43;0200 CEST</updated>
+
+    
+      
+        <item>
+          <title>Girlsday 2016 bei dff-solutions</title>
+          <link>http://replace-this-with-your-hugo-site.com/post/was_macht_dff/</link>
+          <pubDate>Thu, 28 Apr 2016 13:12:27 CEST</pubDate>
+          <author></author>
+          <guid>http://replace-this-with-your-hugo-site.com/post/was_macht_dff/</guid>
+          <description>
+
+&lt;h1 id=&#34;greta-nöhre:1e8908f7814aa7fb3bb970e61564378e&#34;&gt;Greta Nöhre&lt;/h1&gt;
+
+&lt;p&gt;Hier mein kleiner Bericht:&lt;/p&gt;
+
+&lt;h2 id=&#34;jetzt-geht-es-los:1e8908f7814aa7fb3bb970e61564378e&#34;&gt;Jetzt geht es los&lt;/h2&gt;
+
+&lt;p&gt;Heute fällt die Schule aus weil Zukunftstag ist, sozusagen die Fortsetzung vom girlsday.
+Ich bin bei dff-sulotions in Göttingen. Morgens bin ich von Northeim um 8:15 Uhr mit der Bahn
+hier her gefahren . Als erstes machen sie hier immer ein Morgenmeeting an dem besprochen wird,
+was noch gemacht werden muss und was schon erledigt ist.
+Dann bin ich mit meinem Papa (der arbeitet hier) zurück in sein Büro gegangen und haben eine Internetseite erstellt.&lt;/p&gt;
+
+&lt;h2 id=&#34;was-macht-eigentlich-dff:1e8908f7814aa7fb3bb970e61564378e&#34;&gt;Was macht eigentlich dff?&lt;/h2&gt;
+
+&lt;p&gt;dff macht programme (Software) für Industriemobilcomputer.
+Mit so einem Gerät fährt zum beispiel der LKW fahrer von &lt;strong&gt;REWE&lt;/strong&gt; herum. Durch den kleinen Computer
+muss der Fahrer nicht mehr auf Papier schreiben und hinterher muss keiner vom Papier in einen großen Computer abtippen (sehr nervig) .
+Außerdem kann das Lager zu dem der LKW gehört so jederzeit sehen, wo sich der Fahrer gerade befindet und dann gut planen, wer wann die nächsten Aufträge übernehemen kann.&lt;/p&gt;
+
+&lt;h2 id=&#34;wie-funktioniert-eine-internetseite:1e8908f7814aa7fb3bb970e61564378e&#34;&gt;Wie funktioniert eine Internetseite&lt;/h2&gt;
+
+&lt;p&gt;Eine Internetseite funktioniert ein bisschen so wie ein Blog. Man trägt dort interessante Sachen ein
+wie z.B. auf der Internetseite der &lt;strong&gt;HNA&lt;/strong&gt; da stehen interessante Zeitungsartikel.
+Der browser (z.B. chrome ) zeigt HTML-Datein an. Diese Datein kann man theoretisch mit der hand erstellen. Das ist aber sehr aufwändig und kompliziert. Einfacher ist es, wenn man relativ einfache &amp;ldquo;Markup Dateien&amp;rdquo; schreibt und diese dann von einem &amp;ldquo;Static-Site-Genertor&amp;rdquo; (z.B. Hugo) in HTML umwandeln lässt. Genau das haben wir mit dieser Webseite so gemacht.&lt;/p&gt;
+
+&lt;h2 id=&#34;grafik-design:1e8908f7814aa7fb3bb970e61564378e&#34;&gt;Grafik-Design&lt;/h2&gt;
+
+&lt;p&gt;Da bei dff auch einiges mit Grafiken gemacht werden muss (Anleitungen, Fotos), arbeitet hier auf ein Designer. Bei dem hab ich mir dann auch einiges angesehen. Die Bilder auf dieser Webseite habe ich zusammen mit dem Designer bearbeitet.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
